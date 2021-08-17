@@ -3,7 +3,7 @@ import { Container, Navbar, NavbarBrand } from 'react-bootstrap'
 
 
 
-function Header() {
+const Header=()=> {
     return (
         <Navbar bg="dark" variant="dark">
             <Container>
